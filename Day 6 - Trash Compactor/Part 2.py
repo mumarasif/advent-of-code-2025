@@ -66,5 +66,5 @@ def solve_cephalopod_right_to_left(path: str) -> int:
 
 
 if __name__ == "__main__":
-    result = solve_cephalopod_right_to_left("C:/Users/HP/Desktop/Advent of code/advent-of-code-2025/Day 6 - Trash Compactor/input.txt")
+    result = solve_cephalopod_right_to_left("input.txt")
     print(result)

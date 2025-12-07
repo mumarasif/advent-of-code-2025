@@ -1,4 +1,4 @@
-with open("C:/Users/HP/Desktop/Advent of code/advent-of-code-2025/Day 6 - Trash Compactor/input.txt", "r") as file:
+with open("input.txt", "r") as file:
     rows = file.readlines()
 
 max_width = max(len(row) for row in rows)
